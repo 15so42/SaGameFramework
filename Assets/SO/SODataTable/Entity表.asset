@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f0ee0ae2464ddc47842981d78690c47, type: 3}
+  m_Name: "Entity\u8868"
+  m_EditorClassIdentifier: 
+  soDataRows:
+  - id: 0
+    comment: "\u73A9\u5BB6"
+    pfb: {fileID: 511666300232154105, guid: f3b43d6184ab0f342ad700942fc3c10b, type: 3}
+    usePool: 0
+    lookAtTransPointKey: LookAtTransPoint
+    followTransPointKey: FollowTransPoint
+  - id: 1
+    comment: "\u76F8\u673A"
+    pfb: {fileID: 2139739588105473930, guid: 15137f0a0f99efe46b9d4720f50fe181, type: 3}
+    usePool: 0
+    lookAtTransPointKey: 
+    followTransPointKey: 
